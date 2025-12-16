@@ -1,0 +1,1 @@
+Dependencies: pandas, requests, beautifulsoup4, sqlalchemy, apache-airflow, psycopg2-binary
